@@ -1,3 +1,4 @@
+      * Prints a simple string
 	IDENTIFICATION DIVISION.
 	PROGRAM-ID. HelloWorld.
 	AUTHOR. jiuweigui.
