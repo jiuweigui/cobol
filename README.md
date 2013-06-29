@@ -1,1 +1,1 @@
-Random Cobol programs.
+Random Cobol basic stuff.
