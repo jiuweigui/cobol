@@ -13,9 +13,9 @@
 	FD UserDatabase.
 	01 UserRecord.
 		88 EndOfUserDb 	VALUE HIGH-VALUES.
-		02 UserId		PIC 9(5).
+		02 UserId		PIC 9(10).
 		02 UserNames.
-			03 UserName	PIC X(5).
+			03 UserName	PIC X(10).
 			03 RealName	PIC X(10).
 		02 Password.
 			03 Salt	PIC XX.
